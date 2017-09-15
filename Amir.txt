@@ -1,0 +1,2 @@
+# lab1repo
+a repo for seg2105 lab1 class exercises
